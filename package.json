@@ -1,0 +1,13 @@
+{
+  "name": "tutorial",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "myproj/tests/test1.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "repository": "NA"
+}
